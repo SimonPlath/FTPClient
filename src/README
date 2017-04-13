@@ -1,0 +1,80 @@
+The directory "papers" contains selected papers by
+Uri Ascher, his colleagues and students
+
+The files are all compressed using "gzip". Our FTP server will
+automatically gunzip them for you, so if you
+get file.ps.gz     you get it compressed.
+get file.ps        you get it uncompressed.
+
+Available papers:
+
+stab -- my 1996 report, submitted for publication
+        Stabilization of invariants of discretized differential systems
+
+ac   -- my paper with Carter (some figs missing..)
+        A multigrid method for shape from shading
+        {\it SIAM J. Numer. Anal.} 30 (1993) 102-115.
+
+acpr -- my paper with Chin, Petzold and Reich
+        Stabilization of constrained mechanical systems
+        with DAEs and invariant manifolds
+        {\it J. Mech. Struct. Machines} 23 (1995), 135-158.
+
+acr  -- my paper with Chin and Reich
+        Stabilization of DAEs and invariant manifolds
+        {\it Numer. Math.} 67 (1994), 131-149.
+
+al1  -- my paper with Lin on SRM, linear case
+        Sequential regularization methods for higher index
+        DAEs with constraint singularities: I. Linear index-2 case
+        {\it SIAM J. Numer. Anal.}, in press (1996).
+
+al2  -- my paper with Lin on SRM, nonlinear case
+        Sequential Regularization Methods for Nonlinear Higher Index DAEs
+        {\it SIAM J. Scient. Comput.}, to appear (1996)
+
+al3  -- my paper with Lin on SRM, multibody systems with closed loops
+        Sequential Regularization Methods for simulating mechanical systems 
+        with many closed loops
+
+apc  -- my paper with Pai and Cloutier
+        Forward dynamics, elimination methods,
+        and formulation stiffness in robot simulation
+        Revised Oct, 1995.
+
+ap   -- my delay dae paper with Petzold
+        The numerical solution of delay-differntial-algebraic
+        equations of retarded and neutral type
+        {\it SIAM J. Numer. Anal.} 32 (1995), 1635-1657.
+
+arw  -- my paper with Ruuth and Wetton
+        Implicit-explicit methods for time-dependent PDE's
+        {\it SIAM J. Numer. Anal.} 32 (1995), 797-823.
+
+as   -- my paper with Spiteri
+        Collocation software for boundary value differential-algebraic eqns
+        {\it SIAM J. Scient. Comput.} 15 (1994), 938-952.
+
+cpa  -- the icra robotics paper with Pai and Cloutier
+        The formulation stiffness of forward dynamics algorithms
+        and implications for robot simulation
+        Ref Proceedings IEEE Robotics \& Automation, Nagoya 1995, 2816-2822.
+
+sa   -- my paper with sidilkover
+        A multigrid solver for the steady state Navier-Stokes
+        equations using the pressure-Poisson formulation
+        {\it Comp. Appl. Math. (SBMAC)} 14 (1995), 21-35.
+
+sap  -- the icra dai paper with Spiteri and Pai
+        Numerical solution of differential systems with
+        algebraic inequalities arising in robot programming
+        Ref Proceedings IEEE Robotics \& Automation, Nagoya 1995, 2373-2380.
+
+
+
+
+
+
+If there are any problems please contact Uri Ascher <ascher@cs.ubc.ca>.
+
+
